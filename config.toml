@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseURL = "https://upbeat-mclean-d55367.netlify.app"
 title = "SAFAR"
 theme = "universal"
 languageCode = "en-us"
