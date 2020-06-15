@@ -15,6 +15,9 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [menu]
 [[menu.main]]
     identifier = "home"
@@ -22,11 +25,53 @@ paginate = 10
     url  = "/"
     weight = 1
 
-#[[menu.main]]
-#    identifier = "blog"
-#    name = "Blog"
-#    url  = "/blog/"
-#    weight = 2
+[[menu.main]]
+    identifier = "what-we-do"
+    name = "What We Do"
+    url  = "/about-us/what-we-do/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "what-we-do-links"
+    parent = "what-we-do"
+    name = "What We Do"
+    url  = "/what-we-do/what-we-do/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "accountability-dnd-digital-technology"
+    parent = "what-we-do"
+    name = "Accountability and Digital Technology"
+    url  = "/what-we-do/accountability-dnd-digital-technology/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "Strengthening participatory democracy"
+    parent = "what-we-do"
+    name = "Strengthening Participatory Democracy"
+    url  = "/what-we-do/strengthening-participatory-democracy/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "state-citizen-interfaces"
+    parent = "what-we-do"
+    name = "State-Citizen Interfaces"
+    url  = "/what-we-do/state-citizen-interfaces/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "law-and-policy"
+    parent = "what-we-do"
+    name = "Law and Policy"
+    url  = "/what-we-do/law-and-policy/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "practice-to-theory"
+    parent = "what-we-do"
+    name = "Practice to Theory, Theory to Practice"
+    url  = "/what-we-do/practice-to-theory/"
+    weight = 6
 
 [[menu.main]]
     identifier = "about"
@@ -39,12 +84,6 @@ paginate = 10
     parent = "about"
     name = "About"
     url  = "/about-us/about/"
-
-[[menu.main]]
-    identifier = "what-we-do"
-    parent = "about"
-    name = "What We Do"
-    url  = "/about-us/what-we-do/"
 
 [[menu.main]]
     identifier = "advisory"
