@@ -84,12 +84,21 @@ unsafe= true
     parent = "about"
     name = "About"
     url  = "/about-us/about/"
+    weight = 1
 
 [[menu.main]]
     identifier = "advisory"
     parent = "about"
     name = "Advisory Body"
     url  = "/about-us/advisory/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "our-collaborators"
+    parent = "about"
+    name = "Our Collaborators"
+    url  = "/about-us/our-collaborators/"
+    weight = 3
 
 [[menu.main]]
     identifier = "contact"
