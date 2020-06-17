@@ -81,10 +81,37 @@ unsafe= true
     weight = 7
 
 [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url  = "publications/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "opinions"
+    parent = "publications"
+    name = "Opinions"
+    url  = "/publications/opinions/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "papers-and-briefs"
+    parent = "publications"
+    name = "Papers and briefs"
+    url  = "/publications/papers-and-briefs/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "book-chapters"
+    parent = "publications"
+    name = "Book Chapters"
+    url  = "/publications/book-chapters/"
+    weight = 3
+
+[[menu.main]]
     identifier = "about"
     name = "About"
     url  = "/about-us/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     identifier = "about-us"
@@ -149,7 +176,7 @@ unsafe= true
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "turquoise"
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -167,8 +194,8 @@ unsafe= true
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>SAFAR is a collective of activists, researchers, lawyers and development practitioners that works at the interface between the state, law and society to deepen institutions and practices of social accountability and improve access to welfare.</p>"
+    copyright = "Copyright (c)2020; All Rights Reserved."
 
     # Format dates with Go's time formatting
     date_format = "2 January, 2006"
