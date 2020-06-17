@@ -74,6 +74,13 @@ unsafe= true
     weight = 6
 
 [[menu.main]]
+    identifier = "collaboration-with-peoples-campaigns"
+    parent = "what-we-do"
+    name = "SAFAR’s collaboration with Peoples’ Campaigns"
+    url  = "/what-we-do/collaboration-with-peoples-campaigns/"
+    weight = 7
+
+[[menu.main]]
     identifier = "about"
     name = "About"
     url  = "/about-us/"

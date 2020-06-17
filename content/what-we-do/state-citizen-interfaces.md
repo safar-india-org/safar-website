@@ -4,14 +4,31 @@ description = "State-Citizen Interfaces"
 keywords = [""]
 +++
 
-Through our work, we have tried to build platforms of dialogue between civil society organizations, government authorities and IT service providers to move from “Management Information Systems” towards “Janta Information Systems”, where citizens have a role in deciding what information should be collected, how it should be stored, how it should be disclosed, and how it should be used. The dialogues known as ‘Digital Dialogues’ is an attempt to bring grassroots activists, IT professionals and representatives of Line Departments together to discuss what information should be disclosed in the public domain through a web portal, and in what format, so that citizens individually and collectively can use information to better access their entitlements and hold local implementation more accountable to its mandate. The Digital Dialogue is a non-funded initiative where the State Government physically hosts the dialogue and funds required for travel of participating activists are crowd funded on a case by case basis.
-Images: DD A and DD B
+SAFAR is working with civil society organizations such as Centre for Advocacy and Research (CFAR), National Campaign for Dalit Human Rights (NCDHR), National Institute for Rural Development and Panchayati Raj (NIRDPR) to develop a Social Accountability Policy and scheme specific guidelines for the Ministry of Social Justice and Empowerment, Government of India. 
 
-As part of an attempt to engage with institutional platforms in the landscape of urban governance, for strengthening social accountability, SARU has been trying to work for better implementation of the 74th Constitutional Amendment (CA) or Nagarapalika Act and the Karnataka Municipal Corporations Act, which mandate the constitution of Ward Committees at ward level and Area Sabhas at sub-ward level in the 11 municipal corporations spread across Karnataka to devolve “Power to the People”. SARU in collaboration with Citizens’ Voluntary Initiative for the City of Bangalore (CIVIC) has been working towards conducting training and sensitization workshops with CSOs, citizen networks, colleges on the provisions of the 74th Amendment and the platforms and mechanisms available to citizens to ensure decision making by Ward Committees and Area Sabhas in several wards of Bengaluru and many municipal corporations of Karnataka and ensure Municipal Corporations are transparent and accountable to the communities they are intended to serve. Inputs are also being gathered to suggest amendments to the KMC Act to strengthen the provisions regarding citizen participation.
-Images: Karnataka A
-Documents to embed: Karnataka 1
+This includes provisions for mandatory disclosure of information, grievance redress, social audits, community monitoring and participatory planning in six schemes of the Ministry:
 
-The registration of Building and other Construction Workers (BOCWs) was seen as a priority area in Meghalaya. To facilitate this, awareness is one initiative that was undertaken. Efforts were made by SARU to bring together various Unions working in the State to provide assistance to construction workers to register, and then support them in tracking their registration with the concerned Department. 
-Images: Meghalaya BoCW
+    * SC ST Prevention of Atrocities Act
+    * Scholarship Assistance for SC, OBC and EBC students
+    * Development Action Plan for SCs
+    * Pradhan Mantri Adarsh Gram Yojana, National Action Plan for Senior Citizens and interventions for drug and substance abuse. 
+
+SAFAR is supporting campaigns such as Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan) in Rajasthan with advocacy for a Social Accountability Bill. The Bill provides a legal framework for information disclosure, grievances redress, the right to hearing, an independent appellate mechanism for grievance redress, information and facilitation centres and social audits. This bill builds on a 2011 version called the ‘Right of Citizens for Time Bound Delivery of Goods and Services and redressal of their grievances Bill” which was discussed in the Lok Sabha and endorsed by the Parliamentary Standing Committee. SAFAR has prepared briefing notes and discussion papers that provide evidence for why such a law will increase the effectiveness of welfare provisioning. SAFAR also assisted members of a Committee constituted by Government of Rajasthan to prepare a draft Public Accountability Bill. 
+
+SAFAR is now involved with the follow up on similar legislation being passed in Kerala and Karnataka, based on public commitments made by the State Governments. 
+
+Documents to embed: Accountability 1, Accountability 2 
+
+After conducting pilot social audits in Meghalaya in collaboration with the State Government and civil society organizations, SAFAR helped draft rules for the scaling up of social audits across the state. These rules have now been notified and guide the implementation of social audits in the state. 
+
+Documents to embed: Meghalaya Rules 1
+
+After conducting pilot social audits of the Building and other Construction Workers Act in Delhi and Rajasthan, SAFAR with other partners provided detailed suggestions to the Central Government. Based on these suggestions, the Ministry of Labour and Employment has issued new instructions to all State Governments. 
+
+Documents to embed: BoCW Rules 1
+
+The Digital Dialogues co-hosted by the Government of Rajasthan and Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan) created a platform for civil society organizations to deliberate and decide what information should be collected, how it should be stored and disclosed. Through these dialogues, we have developed a transparency and accountability protocol for the Jan Soochna Portal which seeks to make government data open and accessible.
+
+Document to embed: JSP Guideline 1
 
 ***
