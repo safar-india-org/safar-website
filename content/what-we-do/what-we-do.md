@@ -16,7 +16,7 @@ keywords = [""]
                     <h3 class="text-uppercase">Accountability and Digital Technology</h3>
                     <p class="text-center">
                         <a href="../accountability-dnd-digital-technology/" class="btn btn-template-transparent-black btn-lg">
-                            Read more about it
+                            Read more
                         </a>
                     </p>
                 </div>
@@ -39,7 +39,7 @@ keywords = [""]
                     <h3 class="text-uppercase">Strengthening Participatory Democracy</h3>
                     <p class="text-center">
                         <a href="../strengthening-participatory-democracy/" class="btn btn-template-transparent-black btn-lg">
-                            Read more about it
+                            Read more
                         </a>
                     </p>
                 </div>
@@ -62,7 +62,7 @@ keywords = [""]
                     <h3 class="text-uppercase">State-citizen interfaces</h3>
                     <p class="text-center">
                         <a href="../state-citizen-interfaces/" class="btn btn-template-transparent-black btn-lg">
-                            Read more about it
+                            Read more
                         </a>
                     </p>
                 </div>
@@ -85,7 +85,7 @@ keywords = [""]
                     <h3 class="text-uppercase">Law and Policy</h3>
                     <p class="text-center">
                         <a href="../law-and-policy/" class="btn btn-template-transparent-black btn-lg">
-                            Read more about it
+                            Read more
                         </a>
                     </p>
                 </div>
@@ -108,7 +108,7 @@ keywords = [""]
                     <h3 class="text-uppercase">Practice to theory, theory to practice</h3>
                     <p class="text-center">
                         <a href="../practice-to-theory/" class="btn btn-template-transparent-black btn-lg">
-                            Read more about it
+                            Read more
                         </a>
                     </p>
                 </div>

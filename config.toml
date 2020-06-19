@@ -39,10 +39,10 @@ unsafe= true
     weight = 1
 
 [[menu.main]]
-    identifier = "accountability-dnd-digital-technology"
+    identifier = "accountability-and-digital-technology"
     parent = "what-we-do"
     name = "Accountability and Digital Technology"
-    url  = "/what-we-do/accountability-dnd-digital-technology/"
+    url  = "/what-we-do/accountability-and-digital-technology/"
     weight = 2
 
 [[menu.main]]
@@ -231,13 +231,13 @@ unsafe= true
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -253,7 +253,7 @@ unsafe= true
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -261,6 +261,6 @@ unsafe= true
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."

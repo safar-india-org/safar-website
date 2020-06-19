@@ -4,31 +4,26 @@ description = "State-Citizen Interfaces"
 keywords = [""]
 +++
 
-SAFAR is working with civil society organizations such as Centre for Advocacy and Research (CFAR), National Campaign for Dalit Human Rights (NCDHR), National Institute for Rural Development and Panchayati Raj (NIRDPR) to develop a Social Accountability Policy and scheme specific guidelines for the Ministry of Social Justice and Empowerment, Government of India. 
+SAFAR builds platforms for dialogue between civil society organizations, government authorities, and IT service providers to move from opaque “Management Information Systems” towards open “Janta Information Systems.” These open systems give citizens a role in deciding what information should be collected and how it should be stored, disclosed, and used. 
 
-This includes provisions for mandatory disclosure of information, grievance redress, social audits, community monitoring and participatory planning in six schemes of the Ministry:
+In an ongoing series called Digital Dialogues, SAFAR brings together grassroots activists, IT professionals, and government departments to discuss how information is shared and made accessible to citizens in the public domain.
+<img class="full-width" src="../../img/pictures/state-citizen-interfaces/1.jpg"></img>
 
-    * SC ST Prevention of Atrocities Act
-    * Scholarship Assistance for SC, OBC and EBC students
-    * Development Action Plan for SCs
-    * Pradhan Mantri Adarsh Gram Yojana, National Action Plan for Senior Citizens and interventions for drug and substance abuse. 
 
-SAFAR is supporting campaigns such as Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan) in Rajasthan with advocacy for a Social Accountability Bill. The Bill provides a legal framework for information disclosure, grievances redress, the right to hearing, an independent appellate mechanism for grievance redress, information and facilitation centres and social audits. This bill builds on a 2011 version called the ‘Right of Citizens for Time Bound Delivery of Goods and Services and redressal of their grievances Bill” which was discussed in the Lok Sabha and endorsed by the Parliamentary Standing Committee. SAFAR has prepared briefing notes and discussion papers that provide evidence for why such a law will increase the effectiveness of welfare provisioning. SAFAR also assisted members of a Committee constituted by Government of Rajasthan to prepare a draft Public Accountability Bill. 
+To strengthen accountability in urban governance, SAFAR works on implementing the Nagarapalika and Karnataka Municipal Corporations acts, which decentralise power to Ward and Area Sabhas. Collaborating with the Citizens’ Voluntary Initiative for the City of Bangalore (CIVIC), SAFAR conducts workshops to improve decision making by Ward Committees and Area Sabhas in select wards across Bengaluru and municipal corporations of Karnataka. We are also providing inputs to amend the KMC Act to strengthen provisions for citizen participation.
 
-SAFAR is now involved with the follow up on similar legislation being passed in Kerala and Karnataka, based on public commitments made by the State Governments. 
+<a href="../../documents/Primer on People’s Participation in Urban Local Governance, Karnataka.docx" class="btn btn-lg" target="_blank">
+    <i class="far fa-file-alt"></i> Primer on People’s Participation in Urban Local Governance, Karnataka
+</a>
 
-Documents to embed: Accountability 1, Accountability 2 
+SAFAR in collaboration with CIVIC is also involved towards enabling the working of Ward Disaster Management Cells in Bengaluru City, as mandated by the Karnataka High Court (WP No. 6435 of 2020).
 
-After conducting pilot social audits in Meghalaya in collaboration with the State Government and civil society organizations, SAFAR helped draft rules for the scaling up of social audits across the state. These rules have now been notified and guide the implementation of social audits in the state. 
+<img class="full-width" src="../../img/pictures/state-citizen-interfaces/2.jpg"></img>
 
-Documents to embed: Meghalaya Rules 1
+<a href="https://www.livelaw.in/pdf_upload/pdf_upload-373913.pdf" class="btn btn-lg" target="_blank">
+    <i class="far fa-file-alt"></i> Judgement of the HC on WP No. 6435 of 2020
+</a>
 
-After conducting pilot social audits of the Building and other Construction Workers Act in Delhi and Rajasthan, SAFAR with other partners provided detailed suggestions to the Central Government. Based on these suggestions, the Ministry of Labour and Employment has issued new instructions to all State Governments. 
-
-Documents to embed: BoCW Rules 1
-
-The Digital Dialogues co-hosted by the Government of Rajasthan and Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan) created a platform for civil society organizations to deliberate and decide what information should be collected, how it should be stored and disclosed. Through these dialogues, we have developed a transparency and accountability protocol for the Jan Soochna Portal which seeks to make government data open and accessible.
-
-Document to embed: JSP Guideline 1
+To facilitate the registration of BoCW in Meghalaya, SAFAR conducted awareness campaigns and brought together unions working in the state to provide assistance to construction workers. and then support them in tracking their registration with the concerned Department. 
 
 ***

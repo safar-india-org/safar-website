@@ -12,3 +12,21 @@
 #post-content {
     text-align: justify;
 }
+
+.btn {
+    margin-bottom: 6px!important;
+}
+
+.full-width {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 2px;
+    -moz-box-shadow: 1px 1px 5px #999;
+    -webkit-box-shadow: 1px 1px 5px #999;
+    box-shadow: 1px 1px 5px #999;
+}
