@@ -26,7 +26,9 @@ To facilitate the registration of BoCW in Meghalaya, SAFAR conducted awareness c
 <a href="https://www.livelaw.in/pdf_upload/pdf_upload-373913.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Judgement of the HC on WP No. 6435 of 2020
 </a>
+
 <a href="../../documents/Primer on People’s Participation in Urban Local Governance, Karnataka.docx" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Primer on People’s Participation in Urban Local Governance, Karnataka
 </a>
+
 ***

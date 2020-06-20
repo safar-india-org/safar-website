@@ -41,8 +41,6 @@ SAFAR works with Environics Trust and other campaigns to advocate for transparen
 <a href="../../documents/Report of the pilot social audit of Destitute Free Kerala Programme, Kerala.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Report of the pilot social audit of Destitute Free Kerala Programme, Kerala
 </a>
-<img class="full-width" src="../../img/pictures/participatory-democracy/1.jpg"></img>
-
 <a href="../../documents/Report of the pilot social audit of NFSA undertaken in Trivandrum.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Open Report of the pilot social audit of NFSA undertaken in Trivandrum
 </a>
@@ -58,10 +56,9 @@ SAFAR works with Environics Trust and other campaigns to advocate for transparen
 <a href="https://mssat.nic.in/social_audit_report/Pilot_Social_Audit_Report_MCPPSSA_Act_2017_A.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Meghalaya Community Participation and Public Services Social Audit Act, 2017
 </a>
-
-<img class="full-width" src="../../img/pictures/participatory-democracy/3.jpg"></img>
 <a href="../../documents/India Extractives Transparency Charter- PWYP.docx" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> India Extractives Transparency Charter- PWYP
 </a>
+<img class="full-width" src="../../img/pictures/participatory-democracy/3.jpg"></img>
 
 ***
