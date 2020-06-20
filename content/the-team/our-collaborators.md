@@ -58,7 +58,7 @@ Works on empowering marginalized communities in information dark regions to acce
 An NGO that promotes and advocates for the effective formulation and implementation of population, health and development strategies and policies. It hosts the Secretariat for the Advisory Group on Community Action under the National Health Mission 
 
 #### Publish What You Pay
-A global campaign devotes to build an open and accountable extractive industry 
+A global campaign devoted to building an open and accountable extractive industry 
 
 #### Environics Trust
 Works directly with marginalized communities such as those in the mountain regions, tribes and communities adversely affected by mining and industrialization to empower them to access their rights and facilitate due process
@@ -67,14 +67,14 @@ Works directly with marginalized communities such as those in the mountain regio
 Based in Anand, Gujarat it works towards ecological restoration and conservation of land and water resources in ecologically fragile, degraded and marginalized regions of the country through collective efforts of the village community 
 
 
-* #### Department of E-Governance, Government of Karnataka
-* #### Tribal Development Department, Government of Maharashtra 
-* #### Department of Information & Technology, Government of Rajasthan 
-* #### Department of Labour, Government of Rajasthan 
-* #### MGNREGA Department, Government of Rajasthan 
-* #### Department of Planning and Programme Implementation Department, Government of Meghalaya 
-* #### Social Audit Unit of Kerala
-* #### Social Audit Unit of Chhattisgarh
-* #### Social Audit Unit of Meghalaya  
+#### Department of E-Governance, Government of Karnataka
+#### Tribal Development Department, Government of Maharashtra 
+#### Department of Information & Technology, Government of Rajasthan 
+#### Department of Labour, Government of Rajasthan 
+#### MGNREGA Department, Government of Rajasthan 
+#### Department of Planning and Programme Implementation Department, Government of Meghalaya 
+#### Social Audit Unit of Kerala
+#### Social Audit Unit of Chhattisgarh
+#### Social Audit Unit of Meghalaya  
 
 ---
