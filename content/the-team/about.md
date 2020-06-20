@@ -14,7 +14,7 @@ SAFAR is a collective of activists, researchers, lawyers and development practit
 <div class="row">
     <div class="col-md-3"><img style="width:250px;height:250px;" src="../../img/team/rakshita.jpg"></div>
     <div class="col-md-9">
-    Rakshita Swamy heads SAFAR She has worked towards advocating and institutionalizing transparency, accountability and citizen participation in governance, through her collaboration with both Government and Civil Society Organizations over the past decade. She worked with the Ministry of Rural Development with a mandate to support State Governments in implementing social audits under the MGNREGA, and drawing synergies on social audit with the Comptroller and Auditor General of India. She is associated with the Right to Information and Right to Work campaigns. She has a Masters in Social Policy and Development from the London School of Economics and Political Science.
+    Rakshita Swamy leads SAFAR She has worked towards advocating and institutionalizing transparency, accountability and citizen participation in governance, through her collaboration with both Government and Civil Society Organizations over the past decade. She worked with the Ministry of Rural Development with a mandate to support State Governments in implementing social audits under the MGNREGA, and drawing synergies on social audit with the Comptroller and Auditor General of India. She is associated with the Right to Information and Right to Work campaigns. She has a Masters in Social Policy and Development from the London School of Economics and Political Science.
     </div>
 </div>
 
@@ -36,7 +36,7 @@ SAFAR is a collective of activists, researchers, lawyers and development practit
 <div class="row">
     <div class="col-md-3"><img style="width:250px;height:250px;" src="../../img/team/anindita.jpg"></div>
     <div class="col-md-9">
-    Anindita Adhikari is a PhD Candidate in Sociology at Brown University, where her research examines accountability and welfare rights in India with a focus on social audits and grievance redress law in Bihar. She has been associated with the Right to Work, Right to Information, and Right to Food campaigns for over a decade. Anindita has previously worked with the Government of Bihar and the Ministry of Rural Development on employment, social security, and land issues. Her work has been published in journals such as Development and Change and World Development.
+    Anindita Adhikari is a PhD Candidate in Sociology at Brown University, where her research examines accountability and welfare rights in India with a focus on social audits and grievance redress law in Bihar. She has been associated with the Right to Work, Right to Information, and Right to Food campaigns for over a decade. Anindita has previously worked with the Government of Bihar and the Ministry of Rural Development on employment, social security, and land issues. Her work has been published in journals such as Development and Change and World Development. She co-leads SAFAR's work. 
     </div>
 </div>
 
