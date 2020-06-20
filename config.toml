@@ -32,13 +32,6 @@ unsafe= true
     weight = 2
 
 [[menu.main]]
-    identifier = "what-we-do-links"
-    parent = "what-we-do"
-    name = "What We Do"
-    url  = "/what-we-do/what-we-do/"
-    weight = 1
-
-[[menu.main]]
     identifier = "accountability-and-digital-technology"
     parent = "what-we-do"
     name = "Accountability and Digital Technology"
@@ -109,56 +102,36 @@ unsafe= true
 
 [[menu.main]]
     identifier = "about"
-    name = "About"
-    url  = "/about-us/"
+    name = "The Team"
+    url  = "/the-team/"
     weight = 4
 
 [[menu.main]]
     identifier = "about-us"
     parent = "about"
     name = "About"
-    url  = "/about-us/about/"
+    url  = "/the-team/about/"
     weight = 1
 
 [[menu.main]]
     identifier = "advisory"
     parent = "about"
     name = "Advisory Body"
-    url  = "/about-us/advisory/"
+    url  = "/the-team/advisory/"
     weight = 2
 
 [[menu.main]]
     identifier = "our-collaborators"
     parent = "about"
     name = "Our Collaborators"
-    url  = "/about-us/our-collaborators/"
+    url  = "/the-team/our-collaborators/"
     weight = 3
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 4
-
-# Top bar social links menu
-
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
+    weight = 5
 
 [params]
     viewMorePostLink = "/blog/"
