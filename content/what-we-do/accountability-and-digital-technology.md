@@ -6,7 +6,7 @@ keywords = [""]
 
 Digital technology is far from neutral. It is embedded in and continually generates structures of power that disproportionately impact the most vulnerable groups. While the scope to expand public accountability through digital technology is vast, accessibility is still an urgent issue. Our work is concerned with how to integrate and ground digital technology in the lived realities of those for whom it is most out of reach. 
  
-### Jan Soochna Portal test
+### Jan Soochna Portal 
 
 SAFAR has collaborated with the Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan) and the Department of Information Technology (DoIT), Government of Rajasthan to develop the [Jan Soochna Portal](https://jansoochna.rajasthan.gov.in/). As a single web platform, the Portal offers information related to planning, budgeting, and expenditure of more than 58 schemes across 32 departments. The platform is the first such portal in the country and is a breakthrough for enforcing the disclosure of information under the Right to Information Act. The Portal has been developed and is run by the State DoIT and is the outcome of collaboration between Civil Society Organizations and the Government. which included bi-monthly digital dialogues on discussions on  formats detailing the exact nature of information that is required to be made public, and in what form, for each scheme.
 
