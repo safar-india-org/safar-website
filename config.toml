@@ -149,7 +149,7 @@ unsafe= true
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "yellow"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -184,7 +184,7 @@ unsafe= true
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
@@ -193,9 +193,9 @@ unsafe= true
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    categories = false
+    tags = false
+    search = false
 
 [params.carousel]
     enable = true
