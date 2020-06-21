@@ -2,21 +2,17 @@
 {{ if .Site.Params.carousel.enable }}
 {{ if gt (len .Site.Data.carousel) 0 }}
 <section>
-    <div class="home-carousel" style="background: none!important">
-        <div class="homepage owl-carousel">
-            {{ range sort .Site.Data.carousel "weight" }}
-            <div class="item scrolling-background img-responsive" style="background-image: url({{.image}});">
-                <div class="dark-mask"></div>
-                <div class="row">
-                    <div class="col-sm-12 text-center">
-                        <h1 class="vertical-align">{{ .title }}</h1>
-                        {{ .description | safeHTML }}
-                    </div>
-                </div>
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        {{ range sort .Site.Data.carousel "weight" }}
+        <div class="row">
+            <div class="col-sm-12 text-center vertical-align">
+                <h1 class="banner-heading">{{ .title }}</h1>
+                <h3 class="banner-heading heading-h3-style">{{ .description }}</h1>
             </div>
-            {{ end }}
         </div>
-        <!-- /.project owl-slider -->
+        {{ end }}
+    </div>
     </div>
 </section>
 {{ end }}

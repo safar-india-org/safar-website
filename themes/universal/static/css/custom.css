@@ -10,48 +10,76 @@
 }
 
 #post-content {
-    text-align: justify;
+  text-align: justify;
 }
 
 .btn {
-    margin-bottom: 6px!important;
+  margin-bottom: 6px!important;
 }
 
 .full-width {
-    display: block;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    padding: 2px;
-    -moz-box-shadow: 1px 1px 5px #999;
-    -webkit-box-shadow: 1px 1px 5px #999;
-    box-shadow: 1px 1px 5px #999;
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 2px;
+  -moz-box-shadow: 1px 1px 5px #999;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 5px #999;
 }
 
 .scrolling-background {
-    height: 500px;
-    width: auto;
-    display: block;
+  height: 500px;
+  width: auto;
+  display: block;
 }
 
 .vertical-align {
-  min-height: 50%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 50vh; /* These two lines are counted as one :-)       */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  top: 20vh;
+}
+
+.banner-heading {
   margin-left: 10%;
   margin-right: 10%;
-  display: flex;
-  align-items: center;
+  text-align: initial;
 }
 
 .homepage {
-    padding-top: 0px!important;
-    padding-bottom: 0px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
 }
 
 .btn-lg {
-    white-space: normal;
-    text-align: justify;
+  white-space: normal;
+  text-align: justify;
+}
+
+@media (min-width: 1300px) {
+  #post-content {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+     column-count: 2;
+
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+     column-gap: 20px;
+  }
+
+  .heading-h3-style {
+    font-size: 40px;
+  }
+
+}
+
+@media only screen and (orientation: landscape) {
+  .vertical-align {
+    top: 15vw;
+  }
 }
