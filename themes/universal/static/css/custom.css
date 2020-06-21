@@ -123,3 +123,26 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+#all {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content {
+  padding-bottom: 60vh;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  min-height: 24rem
+}
+
+#copyright {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
