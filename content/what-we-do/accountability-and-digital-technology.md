@@ -12,7 +12,7 @@ SAFAR has collaborated with the Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan)
 
 ### Mahiti Kanaja 
 
-SAFAR is working with organizations promoting the use of RTI in the State and the Centre for E-Governance, Government of Karnataka to develop a single web platform that provides mandatory disclosure of information, modelled on the Jan Soochna Portal. Karnataka has now become the second state in the country to have a portal like Jan Soochna, known as [Mahiti Kanaja](https://mahitikanaja.karnataka.gov.in), which shared information from the departments of Revenue, Panchayati Raj, Education, Public Distribution System, Social Security Pension, Housing, Agriculture, MGNREGA, Swacch Bharat Mission, Rural Banking, Police, Electricity, Health, and Family Services.
+SAFAR is working with organizations promoting the use of RTI in the State and the Centre for E-Governance, Government of Karnataka to develop a single web platform that provides mandatory disclosure of information, modelled on the Jan Soochna Portal. Karnataka has now become the second state in the country to have a portal like Jan Soochna, known as [Mahiti Kanaja] (https://mahitikanaja.karnataka.gov.in), which shared information from the departments of Revenue, Panchayati Raj, Education, Public Distribution System, Social Security Pension, Housing, Agriculture, MGNREGA, Swacch Bharat Mission, Rural Banking, Police, Electricity, Health, and Family Services.
 
 ### Portal for Tribal Development Department, Maharashtra  
 
