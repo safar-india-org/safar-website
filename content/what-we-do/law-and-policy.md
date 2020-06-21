@@ -15,7 +15,10 @@ This includes provisions for mandatory disclosure of information, grievance redr
 * Development Action Plan for SCs
 * Pradhan Mantri Adarsh Gram Yojana, National Action Plan for Senior Citizens and interventions for drug and substance abuse.
 
-<img class="full-width" src="../../img/pictures/law-policy/1.jpg"></img>
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/law-policy/1.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ### Public Accountability Bill, Rajasthan
 
@@ -23,7 +26,10 @@ SAFAR is supporting campaigns such as Soochna Evum Rozgar Adhikar Abhiyan (SR Ab
 
 SAFAR is now involved with the follow up on similar legislation being passed in Kerala and Karnataka, based on public commitments made by the State Governments.
 
-<img class="full-width" src="../../img/pictures/law-policy/2.jpg"></img>
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/law-policy/2.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ### Social Audit Rules, Meghalaya
 
@@ -33,7 +39,10 @@ After conducting pilot social audits in Meghalaya in collaboration with the Stat
 
 After conducting pilot social audits of the Building and other Construction Workers Act in Delhi and Rajasthan, SAFAR with other partners provided detailed suggestions to the Central Government. Based on these suggestions, the Ministry of Labour and Employment has issued new instructions to all State Governments.
 
-<img class="full-width" src="../../img/pictures/law-policy/3.jpg"></img>
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/law-policy/3.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ### Transparency and Accountability protocol for Jan Soocha Portal, Rajasthan
 

@@ -14,7 +14,10 @@ SAFAR has been conducting social audits of the National Food Security Act in col
 
 SAFAR facilitated a pilot social audit of the Destitute Free Kerala Programme of the Govt. of Kerala, in collaboration with the Kerala State Social Audit Unit. The Programme, implemented by the State’s Kudambashree network, identifies and assists  “destitute” families through participatory processes with the help of local self governments. This was the first-ever social audit conducted since the Programme’s inception in 2004. Based on the successful conclusion of the pilot, the State Government has ordered audits to be conducted in other parts of the State. 
 
-<img class="full-width" src="../../img/pictures/participatory-democracy/2.jpg"></img>
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/participatory-democracy/2.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ### Social Audit of Building and Construction Workers Act, Delhi and Rajasthan
 
@@ -59,6 +62,10 @@ SAFAR works with Environics Trust and other campaigns to advocate for transparen
 <a href="../../documents/India Extractives Transparency Charter- PWYP.docx" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> India Extractives Transparency Charter- PWYP
 </a>
-<img class="full-width" src="../../img/pictures/participatory-democracy/3.jpg"></img>
+
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/participatory-democracy/3.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ***

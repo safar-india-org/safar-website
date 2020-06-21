@@ -9,7 +9,11 @@ SAFAR builds platforms for dialogue between civil society organizations, governm
 ### Digital Dialogues, Rajasthan 
 
 In an ongoing series called Digital Dialogues, SAFAR brings together grassroots activists, IT professionals, and government departments to discuss how information is shared and made accessible to citizens in the public domain.
-<img class="full-width" src="../../img/pictures/state-citizen-interfaces/1.jpg"></img>
+
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/state-citizen-interfaces/1.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ### Strengthening ward committees, Karnataka
 
@@ -17,7 +21,10 @@ To strengthen accountability in urban governance, SAFAR works on implementing th
 
 SAFAR in collaboration with CIVIC is also involved towards enabling the working of Ward Disaster Management Cells in Bengaluru City, as mandated by the Karnataka High Court (WP No. 6435 of 2020).
 
-<img class="full-width" src="../../img/pictures/state-citizen-interfaces/2.jpg"></img>
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/state-citizen-interfaces/2.jpg">
+  <div class="bottom-right">Courtesy of</div>
+</div>
 
 ### Facilitation of registration under BoCW Act, Meghalaya 
 
