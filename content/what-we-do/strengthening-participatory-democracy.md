@@ -28,6 +28,7 @@ In 2019, the Supreme Court of India called for social audits of the Building and
 Meghalaya is the country’s first state to enact a law that mandates social audits across more than 21 schemes and 11 departments in the State. The law enables citizen participation in development planning, monitoring programmes, and grievance redressal of grievances. In a 6th schedule area like Meghalaya, it provides democratic tribal communities the agency to harness community decision-making to shape development programmes. SAFAR has collaborated the Meghalaya Government, civil society organizations, and the Social Audit units of Jharkhand and Telengana to conduct pilot social audits, steer training programmes, and draft guidelines. 
 
 ### Pilot Social Audit of District Mineral Foundation, Chhattisgarh
+
 In trying to embed social audits in increasingly relevant areas, SAFAR is conducting pilot audits of the District Mineral Foundation Trust (Chhattisgarh), Forest Rights Act (Rajasthan) and Tribal Health Cooperatives (Kerala). Watch this space for more! 
 
 SAFAR works with Environics Trust and other campaigns to advocate for transparency in the mining and resource extraction industry. In 2018, SAFAR helped develop the India Extractives Transparency Charter to lay down minimum principles of accountability. We continue to work with several campaigns to enforce the Charter. 

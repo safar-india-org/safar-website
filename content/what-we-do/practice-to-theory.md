@@ -8,7 +8,7 @@ While the modes and methods of social accountability have expanded considerably 
 
 ### 12 Week Course on Social Accountability, National Law School, Benguluru
 
-There is an urgent need to incorporate the practice and deliberations around social accountability into academic curricula that deal with citizen-state relationships. Students should be able to engage with and contribute to this growing body of knowledge both theoretically and in practice. In this context SAFAR, in collaboration with the National Law School of India University (NLSIU), will offer a two-credit course (40 hours) on Social Accountability for students of law and public policy at NLSIU.
+There is an urgent need to incorporate the practice and deliberations around social accountability into academic curricula that deal with citizen-state relationships. Students should be able to engage with and contribute to this growing body of knowledge both theoretically and in practice. In this context SAFAR, in collaboration with the National Law School of India University (NLSIU), will offer a two-credit course (40 hours) on Social Accountability for students of law and public policy at NLSIU, Benguluru. 
 
 <a href="https://www.cbgaindia.org/wp-content/uploads/2019/04/Explorations-in-the-Concept-of-Social-Accountability.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Explorations in the concept of Social Accountability

@@ -44,7 +44,7 @@ After conducting pilot social audits of the Building and other Construction Work
   <div class="bottom-right">Credit: Prashant Panjiar</div>
 </div>
 
-### Transparency and Accountability protocol for Jan Soocha Portal, Rajasthan
+### Transparency and Accountability Protocol for Jan Soocha Portal, Rajasthan
 
 The Digital Dialogues co-hosted by the Government of Rajasthan and Soochna Evum Rozgar Adhikar Abhiyan (SR Abhiyan) created a platform for civil society organizations to deliberate and decide what information should be collected, how it should be stored and disclosed. Through these dialogues, we have developed a transparency and accountability protocol for the Jan Soochna Portal which seeks to make government data open and accessible.
 

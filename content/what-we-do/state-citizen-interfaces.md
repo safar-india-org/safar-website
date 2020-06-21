@@ -10,7 +10,7 @@ SAFAR builds platforms for dialogue between civil society organizations, governm
 
 In an ongoing series called Digital Dialogues, SAFAR brings together grassroots activists, IT professionals, and government departments to discuss how information is shared and made accessible to citizens in the public domain.
 
-### Strengthening ward committees, Karnataka
+### Strengthening Ward Committees, Karnataka
 
 To strengthen accountability in urban governance, SAFAR works on implementing the Nagarapalika and Karnataka Municipal Corporations acts, which decentralise power to Ward and Area Sabhas. Collaborating with the Citizens’ Voluntary Initiative for the City of Bangalore (CIVIC), SAFAR conducts workshops to improve decision making by Ward Committees and Area Sabhas in select wards across Bengaluru and municipal corporations of Karnataka. We are also providing inputs to amend the KMC Act to strengthen provisions for citizen participation.
 
@@ -21,7 +21,7 @@ SAFAR in collaboration with CIVIC is also involved towards enabling the working 
   <div class="bottom-right">Credit: Digvijay Singh</div>
 </div>
 
-### Facilitation of registration under BoCW Act, Meghalaya 
+### Facilitation of Registration Under BoCW Act, Meghalaya 
 
 To facilitate the registration of BoCW in Meghalaya, SAFAR conducted awareness campaigns and brought together unions working in the state to provide assistance to construction workers. and then support them in tracking their registration with the concerned Department. 
 
