@@ -72,7 +72,7 @@ Based in Anand, Gujarat it works towards ecological restoration and conservation
 #### Department of Information & Technology, Government of Rajasthan 
 #### Department of Labour, Government of Rajasthan 
 #### MGNREGA Department, Government of Rajasthan 
-#### Department of Planning and Programme Implementation Department, Government of Meghalaya 
+#### Department of Planning and Programme Implementation, Government of Meghalaya 
 #### Social Audit Unit of Kerala
 #### Social Audit Unit of Chhattisgarh
 #### Social Audit Unit of Meghalaya  
