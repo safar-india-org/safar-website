@@ -42,13 +42,14 @@
   flex-direction: column;
   justify-content: center;
   position: relative;
-  top: 20vh;
+  color: black;
 }
 
 .banner-heading {
-  margin-left: 10%;
-  margin-right: 10%;
-  text-align: initial;
+  margin: 4%;
+  text-align: justify;
+  color: #000000!important;
+  font-weight: 500;
 }
 
 .homepage {
@@ -74,12 +75,5 @@
 
   .heading-h3-style {
     font-size: 40px;
-  }
-
-}
-
-@media only screen and (orientation: landscape) {
-  .vertical-align {
-    top: 15vw;
   }
 }
