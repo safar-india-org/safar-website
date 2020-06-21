@@ -16,7 +16,7 @@ SAFAR facilitated a pilot social audit of the Destitute Free Kerala Programme of
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/participatory-democracy/2.jpg">
-  <div class="bottom-right">Courtesy of</div>
+  <div class="bottom-right">Credit: Sohrab Hura</div>
 </div>
 
 ### Social Audit of Building and Construction Workers Act, Delhi and Rajasthan
@@ -65,7 +65,7 @@ SAFAR works with Environics Trust and other campaigns to advocate for transparen
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/participatory-democracy/3.jpg">
-  <div class="bottom-right">Courtesy of</div>
+  <div class="bottom-right">Credit: Sohrab Hura</div>
 </div>
 
 ***

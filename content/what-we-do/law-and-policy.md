@@ -17,7 +17,7 @@ This includes provisions for mandatory disclosure of information, grievance redr
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/law-policy/1.jpg">
-  <div class="bottom-right">Courtesy of</div>
+  <div class="bottom-right">Credit: Prashant Panjiar</div>
 </div>
 
 ### Public Accountability Bill, Rajasthan
@@ -28,7 +28,7 @@ SAFAR is now involved with the follow up on similar legislation being passed in 
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/law-policy/2.jpg">
-  <div class="bottom-right">Courtesy of</div>
+  <div class="bottom-right">Credit: Prashant Panjiar</div>
 </div>
 
 ### Social Audit Rules, Meghalaya
@@ -41,7 +41,7 @@ After conducting pilot social audits of the Building and other Construction Work
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/law-policy/3.jpg">
-  <div class="bottom-right">Courtesy of</div>
+  <div class="bottom-right">Credit: Prashant Panjiar</div>
 </div>
 
 ### Transparency and Accountability protocol for Jan Soocha Portal, Rajasthan
