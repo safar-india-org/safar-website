@@ -173,8 +173,8 @@ unsafe= true
     # Format dates with Go's time formatting
     date_format = "2 January, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    #logo = "img/logo.png"
+    #logo_small = "img/logo-small.png"
     address = """"""
     latitude = "-12.043333"
     longitude = "-77.028333"
