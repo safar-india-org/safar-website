@@ -7,10 +7,10 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+# disqusShortname = ""
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+# googleAnalytics = ""
 
 # Define the number of posts per page
 paginate = 10
@@ -28,7 +28,7 @@ unsafe= true
 [[menu.main]]
     identifier = "what-we-do"
     name = "What We Do"
-    url  = "/about-us/what-we-do/"
+    url  = "/what-we-do/"
     weight = 2
 
 [[menu.main]]
@@ -102,29 +102,29 @@ unsafe= true
 
 [[menu.main]]
     identifier = "about"
-    name = "The Team"
-    url  = "/the-team/"
+    name = "About Us"
+    url  = "/about-us/"
     weight = 4
 
 [[menu.main]]
-    identifier = "about-us"
+    identifier = "the-team"
     parent = "about"
-    name = "About"
-    url  = "/the-team/about/"
+    name = "The Team"
+    url  = "/about-us/the-team/"
     weight = 1
 
 [[menu.main]]
     identifier = "advisory"
     parent = "about"
     name = "Advisory Body"
-    url  = "/the-team/advisory/"
+    url  = "/about-us/advisory/"
     weight = 2
 
 [[menu.main]]
     identifier = "our-collaborators"
     parent = "about"
     name = "Our Collaborators"
-    url  = "/the-team/our-collaborators/"
+    url  = "/about-us/our-collaborators/"
     weight = 3
 
 [[menu.main]]
@@ -175,9 +175,9 @@ unsafe= true
 
     #logo = "img/logo.png"
     #logo_small = "img/logo-small.png"
-    address = """"""
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    # address = """"""
+    # latitude = "-12.043333"
+    # longitude = "-77.028333"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
