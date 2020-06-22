@@ -134,7 +134,7 @@ unsafe= true
     weight = 5
 
 [params]
-    viewMorePostLink = "/blog/"
+    # viewMorePostLink = "/blog/"
     author = "DipeshAggarwal"
     defaultKeywords = ["safar", "social", "india", "accountability", "research"]
     mainSections = ["blog"]
@@ -168,7 +168,7 @@ unsafe= true
     # contact_form_ajax = false
 
     about_us = "<p>SAFAR is a collective of activists, researchers, lawyers and development practitioners that works at the interface between the state, law and society to deepen institutions and practices of social accountability and improve access to welfare.</p>"
-    copyright = "Copyright (c)2020; All Rights Reserved. Website developed by Dipesh Aggarwal."
+    copyright = "Copyright (c)2020; All Rights Reserved."
 
     # Format dates with Go's time formatting
     date_format = "2 January, 2006"
