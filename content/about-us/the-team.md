@@ -58,7 +58,7 @@ SAFAR is a collective of activists, researchers, lawyers and development practit
 ## Angela Rangad
 
 <div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="https://via.placeholder.com/250x250">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/angela.jpg">
     Angela Rangad lives and works in Meghalaya. She is trained in Anthropology and Law and is one the founders of Thma U Rangli-Juki (TUR) and Workers' Power. Angela has played a seminal role in establishing the Meghalaya Right to Information Movement and has been involved in causes and issues that promote the use of RTI to seek accountability. She has coordinated the first set of social audits of MGNREGA in the State. She is a key member of many progressive movements and campaigns in the State advocating for and promoting equal rights for dignity and justice to all residents of the State, including the right to work, right to self-determination, right to food and right to information. She is SAFAR’s State Resource Person for Meghalaya.
 </div>
 
