@@ -107,11 +107,10 @@
 
 /* Bottom right text */
 .bottom-right {
-  background-color: #00000080;
+  background-color: #00000050;
   position: absolute;
   bottom: -8px;
   right: 16px;
-  left: 50%;
   transform: translate(-50%, -50%);
   width: 99%;
 }
