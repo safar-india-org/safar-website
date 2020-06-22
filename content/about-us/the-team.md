@@ -1,6 +1,6 @@
 +++
-title = "About the Team"
-description = "About the Team"
+title = "The Team"
+description = "The Team"
 keywords = ["team", "about", "members"]
 show_sidebar = false
 one_column = true
