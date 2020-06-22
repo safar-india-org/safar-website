@@ -159,4 +159,8 @@
   #footer {
     min-height: 7rem;
   }
+
+  .home-all {
+    min-height: 50vh;
+  }
 }
