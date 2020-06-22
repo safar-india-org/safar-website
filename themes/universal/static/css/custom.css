@@ -74,7 +74,7 @@
   }
 
   .heading-h3-style {
-    font-size: 36px;
+    font-size: 32px;
   }
 }
 
@@ -162,5 +162,9 @@
 
   .home-all {
     min-height: 50vh;
+  }
+
+  .heading-h3-style {
+    font-size: 21px;
   }
 }
