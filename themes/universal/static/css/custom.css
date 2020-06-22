@@ -109,9 +109,8 @@
 .bottom-right {
   background-color: #00000050;
   position: absolute;
-  bottom: -8px;
+  bottom: 8px;
   right: 16px;
-  transform: translate(-50%, -50%);
   width: 99%;
 }
 
