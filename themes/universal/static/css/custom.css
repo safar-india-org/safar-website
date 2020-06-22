@@ -141,6 +141,10 @@
   min-height: 4rem;
 }
 
+.yellow-colour {
+  background-color: #fddb5b;
+}
+
 #copyright-footer {
   position: absolute;
   bottom: 0;
