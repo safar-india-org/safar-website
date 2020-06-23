@@ -15,14 +15,19 @@ SAFAR has been conducting social audits of the National Food Security Act in col
 
 SAFAR facilitated a pilot social audit of the Destitute Free Kerala Programme of the Govt. of Kerala, in collaboration with the Kerala State Social Audit Unit. The Programme, implemented by the State’s Kudambashree network, identifies and assists  “destitute” families through participatory processes with the help of local self governments. This was the first-ever social audit conducted since the Programme’s inception in 2004. Based on the successful conclusion of the pilot, the State Government has ordered audits to be conducted in other parts of the State. 
 
+### Social Audit of Building and Construction Workers Act, Delhi and Rajasthan
+
+In 2019, the Supreme Court of India called for social audits of the Building and other Construction Workers (BoCW) Act, which regulates conditions of employment of construction workers. SAFAR worked with civil society organizations and unions in collaboration with the State and Central Governments to pilot social audits of BoCW in Delhi and Rajasthan. The audits uncovered serious inadequacies in its implementation: instances of workers paying bribes to register under BoCW, a lack of information about status of workers’ applications, institutionalized corruption, and the exclusion of eligible beneficiaries. Upon its successful completion, the audit led to the implementation of several corrective measures. The national Ministry of Labour and Employment subsequently directed all state governments to conduct social audits based on the SAFAR pilot.
+
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/Jun sunwai setup.jpg">
   <div class="bottom-right">Credit: Anindita Adhikari</div>
 </div>
 
-### Social Audit of Building and Construction Workers Act, Delhi and Rajasthan
-
-In 2019, the Supreme Court of India called for social audits of the Building and other Construction Workers (BoCW) Act, which regulates conditions of employment of construction workers. SAFAR worked with civil society organizations and unions in collaboration with the State and Central Governments to pilot social audits of BoCW in Delhi and Rajasthan. The audits uncovered serious inadequacies in its implementation: instances of workers paying bribes to register under BoCW, a lack of information about status of workers’ applications, institutionalized corruption, and the exclusion of eligible beneficiaries. Upon its successful completion, the audit led to the implementation of several corrective measures. The national Ministry of Labour and Employment subsequently directed all state governments to conduct social audits based on the SAFAR pilot.
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/house to house verification.png">
+  <div class="bottom-right">Credit: Rakshita Swamy</div>
+</div>
 
 ### Social Audit Training and Pilots, Meghalaya 
 
@@ -33,11 +38,6 @@ Meghalaya is the country’s first state to enact a law that mandates social aud
 In trying to embed social audits in increasingly relevant areas, SAFAR is conducting pilot audits of the District Mineral Foundation Trust (Chhattisgarh), Forest Rights Act (Rajasthan) and Tribal Health Cooperatives (Kerala). Watch this space for more! 
 
 SAFAR works with Environics Trust and other campaigns to advocate for transparency in the mining and resource extraction industry. In 2018, SAFAR helped develop the India Extractives Transparency Charter to lay down minimum principles of accountability. We continue to work with several campaigns to enforce the Charter. 
-
-<div class="container-image">
-  <img class="full-width" src="../../img/pictures/house to house verification.png">
-  <div class="bottom-right">Credit: Rakshita Swamy</div>
-</div>
 
 <a href="../../documents/Report of Social Audit of BoCW in Bhim and Beawer, Rajasthan.docx" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Report of Social Audit of BoCW in Bhim and Beawer, Rajasthan
