@@ -24,10 +24,6 @@ In 2019, the Supreme Court of India called for social audits of the Building and
   <div class="bottom-right">Credit: Anindita Adhikari</div>
 </div>
 
-<div class="container-image">
-  <img class="full-width" src="../../img/pictures/house to house verification.png">
-  <div class="bottom-right">Credit: Rakshita Swamy</div>
-</div>
 
 #### Social Audit Training and Pilots, Meghalaya 
 
@@ -38,6 +34,11 @@ Meghalaya is the country’s first state to enact a law that mandates social aud
 In trying to embed social audits in increasingly relevant areas, SAFAR is conducting pilot audits of the District Mineral Foundation Trust (Chhattisgarh), Forest Rights Act (Rajasthan) and Tribal Health Cooperatives (Kerala). Watch this space for more! 
 
 SAFAR works with Environics Trust and other campaigns to advocate for transparency in the mining and resource extraction industry. In 2018, SAFAR helped develop the India Extractives Transparency Charter to lay down minimum principles of accountability. We continue to work with several campaigns to enforce the Charter. 
+
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/house to house verification.png">
+  <div class="bottom-right">Credit: Rakshita Swamy</div>
+</div>
 
 <a href="../../documents/Report of Social Audit of BoCW in Bhim and Beawer, Rajasthan.docx" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Report of Social Audit of BoCW in Bhim and Beawer, Rajasthan
