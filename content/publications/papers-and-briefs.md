@@ -2,6 +2,7 @@
 title = "Papers and Briefs"
 description = "Papers and Briefs"
 keywords = [""]
+one_column = true
 +++
 
 <a href="https://www.cbgaindia.org/working-paper/4734/" class="btn btn-lg" target="_blank">

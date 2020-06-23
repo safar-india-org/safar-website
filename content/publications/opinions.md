@@ -2,6 +2,7 @@
 title = "Opinions"
 description = "Opinions"
 keywords = [""]
+one_column = true
 +++
 
 <a href="https://thewire.in/rights/gau-raksha-banjara" class="btn btn-lg" target="_blank">

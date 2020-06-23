@@ -150,15 +150,15 @@
 
 @media (max-width: 769px) {
   #content {
-    padding-bottom: 7vh;
+    padding-bottom: 8vh;
   }
 
   #footer {
-    min-height: 9rem;
+    min-height: 10rem;
   }
 
   .home-all {
-    min-height: 50vh;
+    min-height: 86vh!important;
   }
 
   .heading-h3-style {

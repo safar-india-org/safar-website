@@ -2,6 +2,7 @@
 title = "Book Chapters"
 description = "Book Chapters"
 keywords = [""]
+one_column = true
 +++
 
 <a href="https://www.cbgaindia.org/wp-content/uploads/2018/02/Of-Hits-and-Misses-An-Analysis-of-Union-Budget-2018-19-2.pdf" class="btn btn-lg" target="_blank">
