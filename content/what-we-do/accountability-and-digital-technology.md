@@ -4,7 +4,7 @@ description = "Accountability and Digital Technology"
 keywords = [""]
 +++
 
-Digital technology is far from neutral. It is embedded in and continually generates structures of power that disproportionately impact the most vulnerable groups. While the scope to expand public accountability through digital technology is vast, accessibility is still an urgent issue. Our work is concerned with how to integrate and ground digital technology in the lived realities of those for whom it is most out of reach. 
+Digital technology is far from neutral. It is embedded in and generates its own structures of power. While the scope to expand public accountability through digital technology is vast, accessibility is still an urgent issue. We want to integrate and ground digital technology in the lived realities of those for whom it is most out of reach. To start with, this means demystifying complex government data sets and making it available to ordinary people in digestible formats that enables action and access.
  
 #### Jan Soochna Portal 
 

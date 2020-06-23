@@ -8,7 +8,7 @@ SAFAR builds platforms for dialogue between civil society organizations, governm
 
 #### Digital Dialogues, Rajasthan 
 
-In an ongoing series called Digital Dialogues, SAFAR brings together grassroots activists, IT professionals, and government departments to discuss how information is shared and made accessible to citizens in the public domain.
+SAFAR in collaboration with Soochna Evum Rozgar Adhikar Abhiyan facilitates a monthly dialogue with the Department of IT, Government of Rajasthan on how digital technology can be leveraged to enhance information disclosure and accountability. The dialogues draw in around 30 representatives from movements, unions and civil society organizations. These groups have decades of experience in empowering people to access their rights and entitlements such as employment under NREGA, PDS grain, loan waivers, compensation from mining leaseholders, education, healthcare etc. The dialogues between civil society representatives, line departments and the IT department focus on what information should be made public and in what form. The objective is to make data available for citizens in digestible formats so they can use this information to claim their rights and monitor expenditure in their villages and wards. In these dialogues, digital applications are also co-designed to make them less bureaucracy-facing and more citizen-facing.
 
 #### Strengthening Ward Committees, Karnataka
 
