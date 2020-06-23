@@ -8,10 +8,10 @@ While the modes and methods of social accountability have expanded considerably 
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/practice-theory.jpg">
-  <div class="bottom-right">Credit: Prashant Panjiar</div>
+  <div class="bottom-right">Credit: Digvijay Singh</div>
 </div>
 
-### 12 Week Course on Social Accountability, National Law School, Benguluru
+#### 12 Week Course on Social Accountability, National Law School, Benguluru
 
 There is an urgent need to incorporate the practice and deliberations around social accountability into academic curricula that deal with citizen-state relationships. Students should be able to engage with and contribute to this growing body of knowledge both theoretically and in practice. In this context SAFAR, in collaboration with the National Law School of India University (NLSIU), will offer a two-credit course (40 hours) on Social Accountability for students of law and public policy at NLSIU, Benguluru. 
 
