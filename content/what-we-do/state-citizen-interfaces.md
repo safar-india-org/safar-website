@@ -4,7 +4,7 @@ description = "State-Citizen Interfaces"
 keywords = [""]
 +++
 
-SAFAR builds platforms for dialogue between civil society organizations, government authorities, and IT service providers to move from opaque “Management Information Systems” towards open “Janta Information Systems.” These open systems give citizens a role in deciding what information should be collected and how it should be stored, disclosed, and used. 
+*SAFAR builds platforms for dialogue between civil society organizations, government authorities, and IT service providers to move from opaque “Management Information Systems” towards open “Janta Information Systems.” These open systems give citizens a role in deciding what information should be collected and how it should be stored, disclosed, and used.* 
 
 #### Digital Dialogues, Rajasthan 
 

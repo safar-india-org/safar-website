@@ -4,7 +4,7 @@ description = "Practice to Theory, Theory to Practice"
 keywords = [""]
 +++
 
-While the modes and methods of social accountability have expanded considerably in the last few years, the question remains: is political accountability shrinking? While the parameters of democracy are being redefined under the present regime, what is the relationship between accountability and democracy? How do these fit within the framework of the Indian Constitution?
+*While the modes and methods of social accountability have expanded considerably in the last few years, the question remains: is political accountability shrinking? While the parameters of democracy are being redefined under the present regime, what is the relationship between accountability and democracy? How do these fit within the framework of the Indian Constitution? We debate these questions and more as we move from practice to theory and theory to practice.*
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/practice-theory.jpg">
