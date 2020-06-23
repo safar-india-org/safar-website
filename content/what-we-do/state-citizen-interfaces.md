@@ -20,11 +20,6 @@ SAFAR in collaboration with CIVIC is also involved towards enabling the working 
 
 To facilitate the registration of BoCW in Meghalaya, SAFAR conducted awareness campaigns and brought together unions working in the state to provide assistance to construction workers. and then support them in tracking their registration with the concerned Department. 
 
-<div class="container-image">
-  <img class="full-width" src="../../img/pictures/state-citizen-interfaces/2.jpg">
-  <div class="bottom-right">Credit: Digvijay Singh</div>
-</div>
-
 <a href="https://www.livelaw.in/pdf_upload/pdf_upload-373913.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Judgement of the HC on WP No. 6435 of 2020
 </a>
@@ -32,5 +27,10 @@ To facilitate the registration of BoCW in Meghalaya, SAFAR conducted awareness c
 <a href="../../documents/Primer on People’s Participation in Urban Local Governance, Karnataka.docx" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> Primer on People’s Participation in Urban Local Governance, Karnataka
 </a>
+
+<div class="container-image">
+  <img class="full-width" src="../../img/pictures/state-citizen-interfaces/2.jpg">
+  <div class="bottom-right">Credit: Digvijay Singh</div>
+</div>
 
 ***
