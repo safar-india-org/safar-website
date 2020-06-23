@@ -154,14 +154,14 @@
   }
 
   #footer {
-    min-height: 10rem;
+    min-height: 10.5rem;
   }
 
   .home-all {
-    min-height: 86vh!important;
+    min-height: 60vh!important;
   }
 
   .heading-h3-style {
-    font-size: 21px;
+    font-size: 22px;
   }
 }
