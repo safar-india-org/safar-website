@@ -5,7 +5,7 @@ keywords = ["team", "about", "members"]
 show_sidebar = false
 +++
 
-SAFAR works with government, peoples’ campaigns, movements and civil society organizations to ground and expand the scope of social accountability in different spheres of governance. This mode of facilitation allows us to bring people from government and civil society with complementary strengths together in order to co-produce institutions and mechanisms of social accountability. We believe that the means are as important as the ends and by playing the role of an independent facilitator that brings government and civil society groups together to further a common agenda of social accountability we hope to contribute to the discipline of social accountability itself, in theory and practice.
+*SAFAR works with government, peoples’ campaigns, movements and civil society organizations to ground and expand the scope of social accountability in different spheres of governance. This mode of facilitation allows us to bring people from government and civil society with complementary strengths together in order to co-produce institutions and mechanisms of social accountability. We believe that the means are as important as the ends and by playing the role of an independent facilitator that brings government and civil society groups together to further a common agenda of social accountability we hope to contribute to the discipline of social accountability itself, in theory and practice.*
 
 Our collaborators include: 
 
