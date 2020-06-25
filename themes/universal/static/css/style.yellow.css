@@ -58,6 +58,7 @@ button {
 a i[class^="fa"],
 button i[class^="fa"] {
   margin: 0 5px;
+  font-size: 22px;
 }
 .clickable {
   cursor: pointer !important;
