@@ -5,16 +5,16 @@ keywords = [""]
 one_column = true
 +++
 
-## Nikhil Dey
+### Nikhil Dey
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/Nikhil Dey.jpg">
-	Nikhil is one of the founding members of the Mazdoor Kisan Shakti Sangathan (MKSS) with Aruna Roy and Shankar Singh. Since 1990, he has been a full-time worker of the MKSS, and a part of the organisation’s decision-making collective. In this capacity he has been involved in struggles of the poor for justice, including grass root struggles for land and the payment of minimum wages. He has also been a part of the organisation’s involvement in collective larger campaigns - most notably for the people’s Right to Information (RTI), and the Right to Work (MGNREGA). Both the RTI and NREGA, which passed in 2005, strengthened people’s rights and entitlements. Nikhil Dey is also part of the effort by people’s movements to build institutions of participatory democracy, where, for instance, peoples platforms for public audits are being institutionalised by introducing statutory requirements of social audits and public hearings.
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/AR ND SS.jpg">
+	Aruna Roy, Nikhil Dey and Shankar Singh are founder members of the Mazdoor Kisan Shakti Sangathan (MKSS) is a grass roots peoples organisation formed in 1990 with its headquarters in Devdungri, Rajasthan. The MKSS works on the concerns of its primary constituents- peasants and workers, but also engages with wider issues of participatory democracy, and democratic struggle. The peoples struggle for access to official documents which was initiated by the MKSS in rural Rajasthan in the mid 90s has grown from a grassroots movement that triggered broad debate, to a successful nationwide demand for the Right to Information Act, a crucial check against arbitrary governance. The platform of village based public hearings or “Jan Sunwais” pioneered by the MKSS in the mid 1990s has now become an institutionalized means of social audit and democratic participation attested by the Government, Judiciary, C&AG, campaigns and movements across the country. The MKSS has also been a strong supporter and an integral part of the movement demanding the Mahatma Gandhi National Rural Employment Guarantee Act and continue to play a critical role in its oversight. Aruna, Nikhil and Shankar, individually and collectively have been members of numerous committees set up to advise Government on means of institutionalizing transparency and accountability in governance. They are also associated with global advocacy platforms such as the Progressive International, Open Government Partnership, Publish What you Pay etc that work towards strengthening democracy and accountability.
 </div>
 
 ---
 
-## Cheryl D'Souza
+### Cheryl D'Souza
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/Cheryl DSouza.jpg">
@@ -23,7 +23,7 @@ one_column = true
 
 ---
 
-## James Herenj
+### James Herenj
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/James Herenj.jpg">
@@ -32,7 +32,7 @@ one_column = true
 
 ---
 
-## Jayati Ghosh
+### Jayati Ghosh
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/Jayati-Ghosh.png">
@@ -41,7 +41,7 @@ one_column = true
 
 ---
 
-## Jitendra Paswan
+### Jitendra Paswan
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/Jitendra Paswan.jpg">
@@ -50,7 +50,7 @@ one_column = true
 
 ---
 
-## Gautam Bhan 
+### Gautam Bhan 
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/Gautam Bhan.jpg">
@@ -59,7 +59,17 @@ one_column = true
 
 ---
 
-## SM Vijayanand
+### Nitin Sethi 
+
+<div class="row" style="padding-left:10px;padding-right:20px;">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/Nitin Sethi.jpg">
+	Nitin is an independent journalist and writer. Over the past two decades, he has investigated, analysed and written on the intersections of governance, environment, public finance, development, and India's political economy. He has written previously for Business Standard, The Hindu, The Times of India, Down to Earth magazine and Scroll.in. He has been awarded several international and Indian fellowships and awards for his reportage and investigations on the political-economy, environment, global climate change geopolitics, development, and India's northeast. He teaches journalism and public policy as visiting faculty at various institutions and is a photojournalist when time permits. His homelands by adoption are in Arunachal Pradesh and Manipur.
+</div>
+
+---
+
+
+### SM Vijayanand
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/SM Vijayanand.jpeg">
