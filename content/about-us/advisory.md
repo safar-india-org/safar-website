@@ -1,11 +1,11 @@
 +++
-title = "Advisory Body"
-description = "Advisory Body"
+title = "Advisory Group"
+description = "Advisory Group"
 keywords = [""]
 one_column = true
 +++
 
-### Nikhil Dey
+### Aruna Roy, Nikhil Dey and Shankar Singh
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/AB pics/AR ND SS.jpg">
