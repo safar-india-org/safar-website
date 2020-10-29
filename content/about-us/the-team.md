@@ -40,7 +40,7 @@ one_column = true
 ## Khush Vachhrajani
 
 <div class="row" style="padding-left:20px;padding-right:20px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/anindita.jpg">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/Khush.jpg">
     Khush has a master’s in Public Affairs with a specialization in Public Policy Analysis from the Brown University and an undergraduate training in Civil Engineering from Gujarat Technological University. He has been working in the development and governance space for the last six years. During his time at Brown, Khush led the research for the Habitability Initiative at the Mayor’s office of Complete Communities in Houston (Texas, US) that aimed at providing policy recommendations to the city administration for improving the quality of low-rent, affordable multi-family housing stock in the historically underserved communities. Prior to Brown, He was associated with the Indus Action Initiatives to lead their state operations in Gujarat in order to advocate for the implementation of the Right to Education in a transparent, inclusive, and accountable manner. He also worked on institutionalizing Social Audit in the state of Haryana among other governance reform projects as the Chief Minister’s Good Governance Associate. Khush has also been a Gandhi Fellow where he spent two years working with the tribal communities in Dungarpur on issues like education, livelihoods, and agriculture. He is the National Resource Person at SAFAR.
 </div>
 
