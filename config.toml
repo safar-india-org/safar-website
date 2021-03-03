@@ -128,10 +128,16 @@ unsafe= true
     weight = 3
 
 [[menu.main]]
+    identifier = "work-with-us"
+    name = "Work with us"
+    url  = "/work-with-us/"
+    weight = 5
+
+[[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 [params]
     # viewMorePostLink = "/blog/"
