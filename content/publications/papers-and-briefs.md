@@ -16,7 +16,7 @@ one_column = true
 
 A preliminary <a href="../../documents/Scoping Study.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>scoping study</b></a> conducted to analyse the potential of Right to Public Service Delivery Laws operational in select States, towards ensuring timely delivery of services to citizens and redress of grievances therein 
 
-From Peoples' Struggles to Public Policy: The Institutionalization of the Bhilwara Framework of Social Accountability in India, <a href="../../documents/Accountability Research Centre.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Accountability Research Centre<*</b></a>.
+From Peoples' Struggles to Public Policy: The Institutionalization of the Bhilwara Framework of Social Accountability in India, <a href="../../documents/Accountability Research Centre.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Accountability Research Centre</b></a>.
 
 <a href="../../documents/MGNREGA Social Audit Report.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>MGNREGA Social Audit Report</b></a>: An Analytical Overview of the Public Information Available on NREGA MIS
 
