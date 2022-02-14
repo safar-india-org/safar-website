@@ -24,8 +24,8 @@ Governments at various levels have undertaken initiatives to build digital archi
 
 The consultation attempts to bring together on a common platform, perspectives of practitioners, lawyers, academics, bureaucrats on how digital technology impacts access to information and its practical limitations and possibilities Through the course of the deliberations we aim to arrive at an administrative and legal framework that should govern information and accountability.
 
-<a href="https://youtu.be/PC-HPsqmpYU" target="_blank"><b><i class="far fa-file-alt small"></i>Digital Technology and Access to Information</b></a>
+<a href="https://youtu.be/PC-HPsqmpYU" target="_blank"><b><i class="far fa-video small"></i>Digital Technology and Access to Information</b></a>
 
-<a href="../../documents/Agenda- 15 February 2022.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Agenda</b></a>
+<a href="../../documents/Agenda- 15 February 2022.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Agendas</b></a>
 
 ***
