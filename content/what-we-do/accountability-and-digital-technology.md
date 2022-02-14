@@ -20,4 +20,12 @@ SAFAR is working with the Tribal Development Department (TDD), Government of Mah
  
 Governments at various levels have undertaken initiatives to build digital architectures for grievance redress through helplines, web portals, and other extensions. However, this digital architecture often disempowers complainants instead of empowering them. We are working with the SR Abhiyan, Department of Administrative Reforms, Government of Rajasthan, and Tribal Development Department, Government of Maharashtra to develop policies that will facilitate complainants in registering grievances and tracking the status of their redress, and ensuring that public participation guides such processes.
 
+#### Consultation on Digital Technology got enabling transparency and accountability
+
+The consultation attempts to bring together on a common platform, perspectives of practitioners, lawyers, academics, bureaucrats on how digital technology impacts access to information and its practical limitations and possibilities Through the course of the deliberations we aim to arrive at an administrative and legal framework that should govern information and accountability.
+
+<a href="https://youtu.be/PC-HPsqmpYU" target="_blank"><b><i class="far fa-file-alt small"></i>Digital Technology and Access to Information</b></a>
+
+<a href="../../documents/Agenda- 15 February 2022.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Agenda</b></a>
+
 ***
