@@ -6,7 +6,7 @@ show_sidebar = false
 one_column = true
 +++
 
-*SAFAR is a collective of activists, researchers and development practitioners. We work in the space between government and civil society to build and demonstrate practical interventions that deepen democratic governance such as pro-active disclosure of government information, social audits, transparency in decision making, facilitation support in accessing basic entitlements, and grievance redress, and pursue them till they are institutionalized. Through accountability-in-practice, we also want to expand our collective thinking around accountability through research and reflection. SAFAR is based out of the National Law School of India University, Bengaluru, Karnataka.*
+*SAFAR works in the space between government and civil society to build and demonstrate practical interventions that deepen democratic governance such as pro-active disclosure of government information, social audits, transparency in decision making, facilitation support in accessing basic entitlements, and grievance redress, and pursue them till they are institutionalized. Through accountability-in-practice, we also work to expand our collective thinking around accountability through research and reflection. We teach the theory of social accountability that is emerging from our collective practice to students of Masters in Public Policy at the National Law School of India University (NLSIU), Bengaluru.*
 
 ---
 

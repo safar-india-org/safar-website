@@ -1,6 +1,6 @@
 +++
-title = "Papers and Briefs"
-description = "Papers and Briefs"
+title = "Working Papers and Reports"
+description = "Working Papers and Reports"
 keywords = [""]
 one_column = true
 +++
