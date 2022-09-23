@@ -14,7 +14,7 @@ one_column = true
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/rakshita.jpg">
-    Rakshita Swamy leads SAFAR. She has worked towards advocating and institutionalizing transparency, accountability and citizen participation in governance, through her collaboration with Central and State Governments and Civil Society Organizations over the past decade. Her work focuses on introducing platforms for enabling and enforcing accountability in diverse sectors such as public service delivery, governance in sixth schedule areas, mining, digital technology and functioning of public institutions. She worked with the Ministry of Rural Development with a mandate to support State Governments in implementing social audits under the MGNREGA, and drawing synergies on social audit with the Comptroller and Auditor General of India. She is associated with the Right to Information and Right to Work campaigns. She has a Masters in Social Policy and Development from the London School of Economics and Political Science.
+    Rakshita Swamy is the Founder and Director of SAFAR. She has worked towards advocating and institutionalizing transparency, accountability and citizen participation in governance, through her collaborations with Central and State Governments and Civil Society Organizations. Her work focuses on conceptualizing, demonstrating and institutionalizing mechanisms that enable disclosure of information, time bound grievance redress and social audits in the delivery of schemes and functioning of public institutions. She worked with the Ministry of Rural Development with a mandate to support State Governments in implementing social audits under the MGNREGA, and drawing institutional synergies on social audit with the Comptroller and Auditor General of India. She is associated with the Right to Information and Right to Work campaigns. She has a Masters in Social Policy and Development from the London School of Economics and Political Science and a Bachelors in Economics from Ladhy Shri Ram College, University of Delhi.
 </div>
 
 ---
@@ -23,7 +23,7 @@ one_column = true
 
 <div class="row" style="padding-left:10px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/paras.jpg">
-    Paras Banjara has been working towards promoting the rights of nomadic tribal communities of Rajasthan, being a vocal member of the community himself. He has worked with the Government of Rajasthan as a Programme Officer in the past, and has been associated with the Social Audit Unit of the State of Andhra Pradesh, National Campaign for Protection of Child Rights and Centre for Policy Research, for developing institutionalized platforms for citizen centric accountability in the fields of education and rural development. He is associated with the Soochna Evum Rozgar Adhikar Abhiyan of Rajasthan over the past two decades. He is SAFAR’s State Resource Person for Rajasthan.
+    Paras Banjara has been working towards promoting the rights of nomadic tribal of Rajasthan, being a vocal member of the community himself. He has worked with the Government of Rajasthan as a Programme Officer of MGNREGA in the past, and has been associated with the Social Audit Unit of the State of Andhra Pradesh, National Campaign for Protection of Child Rights and Centre for Policy Research, for developing institutionalized platforms for citizen centric accountability in the fields of education and rural development. He is associated with the Soochna Evum Rozgar Adhikar Abhiyan of Rajasthan over the past two decades. He is SAFAR’s State Coordinator for Rajasthan.
 </div>
 
 ---
@@ -32,7 +32,7 @@ one_column = true
 
 <div class="row" style="padding-left:20px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/anindita.jpg">
-    Anindita Adhikari is a PhD Candidate in Sociology at Brown University, where her research examines accountability and welfare rights in India with a focus on social audits and the grievance redress law in Bihar. She has been associated with the Right to Work, Right to Information, and Right to Food campaigns for over a decade. Anindita has previously worked with the Government of Bihar and the Ministry of Rural Development on employment, social security, and land issues. Her work has been published in journals such as Development and Change and World Development. She co-leads SAFAR's work.
+    Anindita Adhikari is the Director of SAFAR. She is a PhD Candidate in Sociology at Brown University, where her research examines accountability and welfare rights in India with a focus on social audits and the grievance redress law in Bihar. She has been associated with the Right to Work, Right to Information, and Right to Food campaigns. Anindita has previously worked with the Government of Bihar and the Ministry of Rural Development on employment, social security, and land issues. Her work has been published in journals such as Development and Change and World Development.
 </div>
 
 ---
@@ -40,8 +40,8 @@ one_column = true
 ## Khush Vachhrajani
 
 <div class="row" style="padding-left:20px;padding-right:20px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/Khush.jpg">
-    Khush has a master’s in Public Affairs with a specialization in Public Policy Analysis from the Brown University and an undergraduate training in Civil Engineering from Gujarat Technological University. He has been working in the development and governance space for the last six years. During his time at Brown, Khush led the research for the Habitability Initiative at the Mayor’s office of Complete Communities in Houston (Texas, US) that aimed at providing policy recommendations to the city administration for improving the quality of low-rent, affordable multi-family housing stock in the historically underserved communities. Prior to Brown, He was associated with the Indus Action Initiatives to lead their state operations in Gujarat in order to advocate for the implementation of the Right to Education in a transparent, inclusive, and accountable manner. He also worked on institutionalizing Social Audit in the state of Haryana among other governance reform projects as the Chief Minister’s Good Governance Associate. Khush has also been a Gandhi Fellow where he spent two years working with the tribal communities in Dungarpur on issues like education, livelihoods, and agriculture. He is the National Resource Person at SAFAR.
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/khush.jpg">
+    Khush has a master’s in Public Affairs with a specialization in Public Policy Analysis from the Brown University and an undergraduate training in Civil Engineering from Gujarat Technological University. During his time at Brown, Khush led the research for the Habitability Initiative at the Mayor’s office of Complete Communities in Houston (Texas, US) that aimed at providing policy recommendations to the city administration for improving the quality of low-rent, affordable multi-family housing stock in the historically underserved communities. Prior to Brown, He was associated with the Indus Action Initiatives to lead their state operations in Gujarat in order to advocate for the implementation of the Right to Education in a transparent, inclusive, and accountable manner. He also worked on institutionalizing Social Audit in the state of Haryana among other governance reform projects as the Chief Minister’s Good Governance Associate. Khush has also been a Gandhi Fellow where he spent two years working with the tribal communities in Dungarpur on issues like education, livelihoods, and agriculture. He is the National Coordinator at SAFAR.
 </div>
 
 ---
@@ -50,7 +50,7 @@ one_column = true
 
 <div class="row" style="padding-left:20px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/shailaja.jpg">
-        Shailaja Aralkar has worked with right-based NGOs in various capacities over the past two decades and has been involved in advocacy with the Government of Maharashtra for issues such as health, education, social security particularly for marginalized and unorganized workers, with a focus on women workers. Her work includes efforts to build capacity of front-line functionaries and activists on issues like gender, sexuality, human rights and community health through her association with Institute of Health Management Pachod (IHMP), National AIDS Research Institute (NARI), Yashwantrao Chavan Academy of Development Administration (YASHADA). Shailaja has been actively advocating for the right to dignified work and wages for women waste pickers, and is associated with Kagad Kach Patra Kashtakari Panchayat (KKPKP), a trade union of waste pickers in Pune and SWaCH. She is SAFAR’s State Resource Person for Maharashtra.
+        Shailaja Aralkar has worked with rights-based civil society organizations, campaigns and movements in various capacities and has been involved in advocacy with the Government of Maharashtra for issues such as health, education, social security particularly for marginalized and unorganized workers. Her work includes efforts to build capacity of front-line functionaries and activists on issues like gender, sexuality, human rights and community health through her association with Institute of Health Management Pachod (IHMP), National AIDS Research Institute (NARI), Yashwantrao Chavan Academy of Development Administration (YASHADA). Shailaja has been actively advocating for the right to dignified work and wages for women waste pickers, and is associated with Kagad Kach Patra Kashtakari Panchayat (KKPKP), a trade union of waste pickers in Pune and SWaCH. She is SAFAR’s State Coordinator for Maharashtra.
 </div>
 
 ---
@@ -64,11 +64,30 @@ one_column = true
 
 ---
 
-## Angela Rangad
+## Hardik Parmar
 
 <div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/angela.jpg">
-    Angela Rangad lives and works in Meghalaya. She is trained in Anthropology and Law and is one the founders of Thma U Rangli-Juki (TUR) and Workers' Power. Angela has played a seminal role in establishing the Meghalaya Right to Information Movement and has been involved in causes and issues that promote the use of RTI to seek accountability. She has coordinated the first set of social audits of MGNREGA in the State. She is a key member of many progressive movements and campaigns in the State advocating for and promoting equal rights for dignity and justice to all residents of the State, including the right to work, right to self-determination, right to food and right to information. She is SAFAR’s State Resource Person for Meghalaya.
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/hardik.jpg">
+    Hardik has worked to expand access to the right to food, right to work and right to information with ANANDI in Gujarat. He has supported the Government of Maharashtra in conducting a research project documenting the positive impact of the forest rights act among tribal communities. He is associated with the Ministry of Social Justice and Empowerment’s National Resource Cell of Social Audit as a master trainer for building capacities of State Social Audit Units. Hardik has completed his bachelors in archaeology from MS University, Baroda and holds a Master Degree in Social Work from Tata Institute of Social Sciences, Mumbai. Hardik is SAFAR’s State Coordinator for Karnataka.
 </div>
 
 ---
+
+## Kapil Aggarwal
+
+<div class="row" style="padding-left:20px;padding-right:10px;">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/kapil.jpg">
+    Kapil has been volunteering with transparency and accountability movements, farmers’ and workers’ movements, environmental and social justice movements, etc. As an undergraduate law student, he effectively used the Right to Information (RTI) Act, 2005 and Public Interest Litigations (PILs) to make public authorities transparent and accountable in their functioning. As a Masters student, he studied the larger process and inter-relationship between Development, Displacement and Environmental Degradation through the study of a developmental crisis unfolding in the Aarey Forest in Mumbai in the year 2019. Kapil holds a Master of Laws in Access to Justice from Tata Institute of Social Sciences, Mumbai and pursued B.A. LL.B. (Hons.) from Guru Gobind Singh Indraprastha University, Delhi. Previously, Kapil has worked with Indian School of Democracy (ISD) as a Senior Research Associate. He is SAFAR’s State Coordinator for Bihar.
+</div>
+
+---
+
+## Vidya Viswanathan
+
+<div class="row" style="padding-left:20px;padding-right:10px;">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/vidya.jpeg">
+    Vidya Viswanathan is an environmental and social justice researcher and is the co-author of a number of articles and papers understanding the efficacy of environmental regulations in protecting ecology and managing social conflicts induced by land use changes on the ground. Her research interest areas include methods of strengthening environmental governance, including regulations, with a focus on building better and collaborative interfaces between citizens and regulators to build an accountable and a democratic governance system. Vidya has worked with both environmental organizations and the Government through her stints at the WWF and the Ministries of Labour & Employment and Rural Development. Her last stint was with the Centre for Policy Research in Delhi, where she led a 40 member’s strong action research program on Environmental Justice for over three years. She has a Masters in Social Work with a specialization in Community Organization and Development Practice from the prestigious Tata Institute of Social Sciences, Mumbai, and a Bachelors in Economics from the University of Delhi. Vidya leads SAFAR’s work on accountability and the commons. 
+</div>
+
+---
+

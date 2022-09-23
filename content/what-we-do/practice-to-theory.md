@@ -4,7 +4,9 @@ description = "Practice to Theory, Theory to Practice"
 keywords = [""]
 +++
 
-*While the modes and methods of social accountability have expanded considerably in the last few years, the question remains: is political accountability shrinking? While the parameters of democracy are being redefined under the present regime, what is the relationship between accountability and democracy? How do these fit within the framework of the Indian Constitution? We debate these questions and more as we move from practice to theory and theory to practice.*
+*While the modes and methods of accountability have expanded considerably in the last few years, what do we understand as the relationship between accountability and power? What is the difference between accountability and social accountability? How do these concepts relate with each other in an evolving complex democracy such as India? We debate these questions and more as we contribute to the co-creation of a working theory on accountability.*
+
+*SAFAR teaches Social Accountability to students of Masters in Public Policy at the National Law School of India University. The course explores a range of substantive debates around welfare rights and social accountability and is rooted in theory that has emerged from practice. It introduces students to the experiences and challenges ordinary people face as they make claims of the state and seek access to basic rights, through a diverse range of ‘literature’ that includes films, reports, laws, judgements in addition to academic papers and books. The course is taught in collaboration with a host of guest lecturers that include practitioners, activists, bureaucrats, frontline functionaries and researchers who share insights from their work with students and help deepen our collective understanding of social accountability.*
 
 <div class="container-image">
   <img class="full-width" src="../../img/pictures/practice-theory.jpg">

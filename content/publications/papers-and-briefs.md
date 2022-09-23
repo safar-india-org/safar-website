@@ -36,4 +36,13 @@ one_column = true
     <i class="far fa-file-alt"></i> Adhikari Anindita, Navmee Goregaonkar, Rajendran Narayanan, Nishant Panicker, and Nithya Ramamoorthy (2020) "Manufactured Maladies: Lives and Livelihoods of Migrant Workers During COVID-19 Lockdown in India". The Indian Journal of Labor, 63 (4): 969-997.
 </a>
 
+<a href="../../documents/3. Jan Soochna Primer_ebook.pdf" class="btn btn-lg" target="_blank">
+    <i class="far fa-file-alt"></i> Jan Soochna Portal Primer (2021)
+</a>
+<br />
+
+<a href="../../documents/national social audit workshopreport_July 2022.pdf" class="btn btn-lg" target="_blank">
+    <i class="far fa-file-alt"></i> National Social Audit Workshop report (2020)
+</a>
+
 ---
