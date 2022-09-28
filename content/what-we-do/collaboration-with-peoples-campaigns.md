@@ -39,7 +39,7 @@ All NREGA trackers published so far can be accessed <a href="https://drive.googl
 
 Since the implementation of the Right to Information (RTI) Act, many RTI users have lost their lives. They were killed for seeking information related to the state of functioning of public programmes and institutions, each of which should have been mandatorily disclosed in the public domain by the Government in line with Section 4 of the Right to Information Act. SAFAR is working with a group of civil society organizations and campaigns to build a collective platform that can strengthen channels of support including legal aid, time bound grievance redress, compensation and dignified access to justice to the families of those who are harassed, threatened and even killed for using the RTI for seeking accountability. SAFAR is also committed to building a web repository of all the RTIs filed and responses received by the whistle-blowers who are murdered in different states of India – starting from Bihar first.
 
-<a href="../../documents/.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Report on Bihar’s Whistle-blower Deaths and Intimidation</b></a>
+<a href="../../documents/Bihar RTI PB Final Report.pdf" target="_blank"><b><i class="far fa-file-alt small"></i>Report on Bihar’s Whistle-blower Deaths and Intimidation</b></a>
 
 #### Accountability of Commons
 

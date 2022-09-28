@@ -73,7 +73,7 @@ one_column = true
 
 ---
 
-## Kapil Aggarwal
+## Kapil Agarwal
 
 <div class="row" style="padding-left:20px;padding-right:10px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/kapil.jpg">
@@ -85,8 +85,17 @@ one_column = true
 ## Vidya Viswanathan
 
 <div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/vidya.jpeg">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/vidya.jpg">
     Vidya Viswanathan is an environmental and social justice researcher and is the co-author of a number of articles and papers understanding the efficacy of environmental regulations in protecting ecology and managing social conflicts induced by land use changes on the ground. Her research interest areas include methods of strengthening environmental governance, including regulations, with a focus on building better and collaborative interfaces between citizens and regulators to build an accountable and a democratic governance system. Vidya has worked with both environmental organizations and the Government through her stints at the WWF and the Ministries of Labour & Employment and Rural Development. Her last stint was with the Centre for Policy Research in Delhi, where she led a 40 member’s strong action research program on Environmental Justice for over three years. She has a Masters in Social Work with a specialization in Community Organization and Development Practice from the prestigious Tata Institute of Social Sciences, Mumbai, and a Bachelors in Economics from the University of Delhi. Vidya leads SAFAR’s work on accountability and the commons. 
+</div>
+
+---
+
+## Tarun Bhartiya
+
+<div class="row" style="padding-left:20px;padding-right:10px;">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/tarun.jpg">
+    Tarun is an award-winning documentarian, Hindi poet and political activist based in Shillong, Meghalaya. His imagemaking has been an adjunct to his political preoccupations on themes such as everyday life of resistance movements, borders and belonging and destruction of indigenous modes of production. His photographs have been exhibited at the Welsh International Festival of Photography in Cardiff and Chennai Photo Biennial. He has worked as an editor on notable films such as “Red Ant Dream” (Editor & Co-Writer, Sanjay Kak, 2014) and directed music videos for bands from Shillong. He is one of the founder members of North East India Audio Visual Archive and alt-space, an independent cultural and political space in Shillong, and is a member of Thma U Rangli Juki (TUR), a progressive people’s group in Meghalaya. He is also a member of Raiot Collective. 
 </div>
 
 ---

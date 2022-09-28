@@ -41,8 +41,13 @@ one_column = true
 </a>
 <br />
 
-<a href="../../documents/national social audit workshopreport_July 2022.pdf" class="btn btn-lg" target="_blank">
+<a href="../../documents/SAFAR_social audit workshopreport_July 2022.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> National Social Audit Workshop report (2020)
+</a>
+<br />
+
+<a href="../../documents/Bihar RTI PB Final Report.pdf" class="btn btn-lg" target="_blank">
+    <i class="far fa-file-alt"></i> Bihar RTI Whistleblower report
 </a>
 
 ---
