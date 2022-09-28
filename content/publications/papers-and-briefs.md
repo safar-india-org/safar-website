@@ -12,7 +12,7 @@ one_column = true
     <i class="far fa-file-alt"></i> Platforms for Citizen Engagement - The Foundation of Democracy, PRADAN NewsReach Vol. 15 No. 4, July-August 2015 By Rakshita Swamy
 </a>
 
-<a href="../../documents/Scoping Study.pdf" class="btn btn-lg" target="_blank">
+<a href="../../documents/RTPSD_Final.pdf" class="btn btn-lg" target="_blank">
     <i class="far fa-file-alt"></i> A preliminary scoping study conducted to analyse the potential of Right to Public Service Delivery Laws operational in select States, towards ensuring timely delivery of services to citizens and redress of grievances therein.
 </a>
 
