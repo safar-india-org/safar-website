@@ -1,28 +1,51 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
 
   <body>
 
     <div id="all">
-        <header>
-          {{ partial "nav.html" . }}
-        </header>
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
         {{ partial "breadcrumbs.html" . }}
+
         <div id="content">
             <div class="container">
+
                 <div class="row">
+
                     <!-- *** LEFT COLUMN *** -->
+
+                    {{ if or (or (.Site.Params.widgets.categories) (.Site.Params.widgets.tags)) (.Site.Params.widgets.search) }}
+                    <div class="col-md-9" id="blog-post">
+                    {{else}}
                     <div class="col-md-12" id="blog-post">
+                    {{ end }}
+
                         {{ if or .Params.author .Params.date }}
                           <p class="text-muted text-uppercase mb-small text-right">
-                            {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>{{ end }}
+                            {{ if isset .Params "authors" }}
+			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
+                            {{ end }}
                             {{ if and .Params.author .Params.date }} | {{ end }}
-                            {{ if .Params.date }}{{ .Date.Format .Site.Params.date_format }}{{ end }}
+                            {{ if .Params.date }}
+                              {{ $createdAt := .Date.Format .Site.Params.date_format }}
+                              {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+                                  {{ $createdAt = replace $createdAt $month (i18n $month) }}
+                              {{ end }}
+                              {{ $createdAt }}
+                            {{ end }}
                           </p>
                         {{ end }}
-                        <div id="post-content" class="{{ if not (.Params.one_column) }} two-column {{ end }}">
+
+                        <div id="post-content">
                           {{ .Content }}
                         </div>
                         <!-- /#post-content -->
@@ -31,28 +54,43 @@
                             {{ template "_internal/disqus.html" . }}
                         </div>
                         {{ end }}
+
                     </div>
                     <!-- /#blog-post -->
+
                     <!-- *** LEFT COLUMN END *** -->
+
+                    {{ if or (or (.Site.Params.widgets.categories) (.Site.Params.widgets.tags)) (.Site.Params.widgets.search) }}
                     <!-- *** RIGHT COLUMN *** -->
-                    {{ if .Params.author }}
-                        <div class="col-md-3">
-                            <!-- *** MENUS AND WIDGETS *** -->
-                            {{ partial "sidebar.html" . }}
-                            <!-- *** MENUS AND FILTERS END *** -->
-                        </div>
-                    {{ end }}
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
                     <!-- /.col-md-3 -->
+
                     <!-- *** RIGHT COLUMN END *** -->
+                    {{ end }}
+
                 </div>
                 <!-- /.row -->
+
             </div>
             <!-- /.container -->
         </div>
         <!-- /#content -->
+
         {{ partial "footer.html" . }}
+
     </div>
     <!-- /#all -->
+
     {{ partial "scripts.html" . }}
+
   </body>
 </html>
