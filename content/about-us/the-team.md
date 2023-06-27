@@ -73,15 +73,6 @@ one_column = true
 
 ---
 
-## Kapil Agarwal
-
-<div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/kapil.jpg">
-    Kapil has been volunteering with transparency and accountability movements, farmers’ and workers’ movements, environmental and social justice movements, etc. As an undergraduate law student, he effectively used the Right to Information (RTI) Act, 2005 and Public Interest Litigations (PILs) to make public authorities transparent and accountable in their functioning. As a Masters student, he studied the larger process and inter-relationship between Development, Displacement and Environmental Degradation through the study of a developmental crisis unfolding in the Aarey Forest in Mumbai in the year 2019. Kapil holds a Master of Laws in Access to Justice from Tata Institute of Social Sciences, Mumbai and pursued B.A. LL.B. (Hons.) from Guru Gobind Singh Indraprastha University, Delhi. Previously, Kapil has worked with Indian School of Democracy (ISD) as a Senior Research Associate. He is SAFAR’s State Coordinator for Bihar.
-</div>
-
----
-
 ## Vidya Viswanathan
 
 <div class="row" style="padding-left:20px;padding-right:10px;">
