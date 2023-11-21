@@ -32,7 +32,7 @@ one_column = true
 
 <div class="row" style="padding-left:20px;padding-right:20px;">
     <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/anindita.jpg">
-    Anindita Adhikari is the Director of SAFAR. She is a PhD Candidate in Sociology at Brown University, where her research examines accountability and welfare rights in India with a focus on social audits and the grievance redress law in Bihar. She has been associated with the Right to Work, Right to Information, and Right to Food campaigns. Anindita has previously worked with the Government of Bihar and the Ministry of Rural Development on employment, social security, and land issues. Her work has been published in journals such as Development and Change and World Development.
+    Anindita Adhikari is the Director of SAFAR. She has a PhD in Sociology from Brown University. Her research examines accountability and welfare rights in India with a focus on social audits and the grievance redress law in Bihar. She has been associated with the Right to Work, Right to Information, and Right to Food campaigns. Anindita has previously worked with the Government of Bihar and the Ministry of Rural Development on employment, social security, and land issues. Her work has been published in journals such as Development and Change and World Development.
 </div>
 
 ---
@@ -55,38 +55,29 @@ one_column = true
 
 ---
 
-## Kathyayini Chamaraj
+## Sreeharsha Thaneeru
 
 <div class="row" style="padding-left:20px;padding-right:20px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/kathyayini.jpg">
-    Kathyayini Chamaraj has been associated with Citizens’ Voluntary Initiative for the City of Bangalore (CIVIC) for the past thirty years. She has been working towards the better implementation of laws that promote greater transparency, accountability and people’s participation in urban governance. She is associated with state and national campaigns on right to information, right to food and rights of social security for workers of the unorganized sector. She is an avid writer and has contributed towards more than 350 articles on social and development issues in the press. She is SAFAR’s State Resource Person for Karnataka.
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/sreeharsha.jpg">
+        Sreeharsha coordinates a farmer's helpline called Kisanmitra in Andhra Pradesh and Telangana to redress farmer's grievances through legal, administrative and policy advocacy. He works on promoting sustainable agriculture and socio-ecologically just alternatives and advocates for farmers rights in Telugu states. He is a trained engineer and his previous experience in the IT sector has shaped his interest in FOSS (free and open source software). With the increasing digitisation of agriculture, he wants to facilitate discussions and work with collectives to ensure farmer’s interests are centered in the design of new technologies. He also volunteers with Rythu Swarajya Vedika and Alliance for Sustainable and Holistic Agriculture (ASHA). He is SAFAR's state coordinator for Telangana and Andhra Pradesh.
 </div>
 
 ---
 
-## Hardik Parmar
+## Angela Rangad
 
-<div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/hardik.jpg">
-    Hardik has worked to expand access to the right to food, right to work and right to information with ANANDI in Gujarat. He has supported the Government of Maharashtra in conducting a research project documenting the positive impact of the forest rights act among tribal communities. He is associated with the Ministry of Social Justice and Empowerment’s National Resource Cell of Social Audit as a master trainer for building capacities of State Social Audit Units. Hardik has completed his bachelors in archaeology from MS University, Baroda and holds a Master Degree in Social Work from Tata Institute of Social Sciences, Mumbai. Hardik is SAFAR’s State Coordinator for Karnataka.
+<div class="row" style="padding-left:20px;padding-right:20px;">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/angela.jpg">
+        Angela Rangad lives and works in Meghalaya. She is trained in Anthropology and Law and is one the founders of Thma U Rangli-Juki (TUR) and Workers' Power. Angela has played a seminal role in establishing the Meghalaya Right to Information Movement and has been involved in causes and issues that promote the use of RTI to seek accountability. She has coordinated the first set of social audits of MGNREGA in the State. She is a key member of many progressive movements and campaigns in the State advocating for and promoting equal rights for dignity and justice to all residents of the State, including the right to work, right to self-determination, right to food and right to information. She is SAFAR’s state coordinator for Meghalaya.
 </div>
 
 ---
 
-## Vidya Viswanathan
+## Carina Singh 
 
-<div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/vidya.jpg">
-    Vidya Viswanathan is an environmental and social justice researcher and is the co-author of a number of articles and papers understanding the efficacy of environmental regulations in protecting ecology and managing social conflicts induced by land use changes on the ground. Her research interest areas include methods of strengthening environmental governance, including regulations, with a focus on building better and collaborative interfaces between citizens and regulators to build an accountable and a democratic governance system. Vidya has worked with both environmental organizations and the Government through her stints at the WWF and the Ministries of Labour & Employment and Rural Development. Her last stint was with the Centre for Policy Research in Delhi, where she led a 40 member’s strong action research program on Environmental Justice for over three years. She has a Masters in Social Work with a specialization in Community Organization and Development Practice from the prestigious Tata Institute of Social Sciences, Mumbai, and a Bachelors in Economics from the University of Delhi. Vidya leads SAFAR’s work on accountability and the commons. 
-</div>
-
----
-
-## Tarun Bhartiya
-
-<div class="row" style="padding-left:20px;padding-right:10px;">
-    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/tarun.jpg">
-    Tarun is an award-winning documentarian, Hindi poet and political activist based in Shillong, Meghalaya. His imagemaking has been an adjunct to his political preoccupations on themes such as everyday life of resistance movements, borders and belonging and destruction of indigenous modes of production. His photographs have been exhibited at the Welsh International Festival of Photography in Cardiff and Chennai Photo Biennial. He has worked as an editor on notable films such as “Red Ant Dream” (Editor & Co-Writer, Sanjay Kak, 2014) and directed music videos for bands from Shillong. He is one of the founder members of North East India Audio Visual Archive and alt-space, an independent cultural and political space in Shillong, and is a member of Thma U Rangli Juki (TUR), a progressive people’s group in Meghalaya. He is also a member of Raiot Collective. 
+<div class="row" style="padding-left:20px;padding-right:20px;">
+    <img style="width:240px;height:240px;float:left;margin-right:10px;" src="../../img/team/carina.jpg">
+        Carina leads SAFAR’s initiatives on the social accountability of the commons.Carina also contributes to SAFAR's work on institutionalising processes that increase transparency and enhance people’s participation in welfare schemes. She is also associated with the NREGA Sangharsh Morcha and the National Alliance for People’s Movements. Previously Carina worked as a researcher with IT for Change, examining the impact of large-scale digitalisation and platformisation on labor market dynamics and marginalised groups. Carina has a bachelors in law from the National Law School of India University, Bangalore and also has experience working in private equity law at Trilegal in Mumbai.
 </div>
 
 ---
